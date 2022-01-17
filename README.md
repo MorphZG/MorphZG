@@ -6,10 +6,20 @@ fine music and fine drinks i decided that bartending is a career for me. Wrong!
 True passion was growing inside me, from small little spark my inside was
 boiling until it bursts in flames. Point of no return.
 
-<!--- find a better image, maybe somekind of bar or small banner
-![python-logo.jpeg](https://github.com/MorphZG/MorphZG/blob/main/assets/python-logo.jpeg?)
+<!--- icons downloaded from:
+![icons](https://simpleicons.org)
 --->
-
+![command_line](https://github.com/MorphZG/MorphZG/blob/main/assets/windowsterminal.svg)
+![python](https://github.com/MorphZG/MorphZG/blob/main/assets/python.svg)
+![bash](https://github.com/MorphZG/MorphZG/blob/main/assets/gnubash.svg)
+![git](https://github.com/MorphZG/MorphZG/blob/main/assets/git.svg)
+![github](https://github.com/MorphZG/MorphZG/blob/main/assets/github.svg)
+![vim](https://github.com/MorphZG/MorphZG/blob/main/assets/vim.svg)
+![sublimetext](https://github.com/MorphZG/MorphZG/blob/main/assets/sublimetext.svg)
+![pycharm](https://github.com/MorphZG/MorphZG/blob/main/assets/pycharm.svg)
+![mysql](https://github.com/MorphZG/MorphZG/blob/main/assets/mysql.svg)
+![postgresql](https://github.com/MorphZG/MorphZG/blob/main/assets/postgresql.svg)
+![ubuntu](https://github.com/MorphZG/MorphZG/blob/main/assets/ubuntu.svg)
 
 **Skills and interests:**
 - Python programing
