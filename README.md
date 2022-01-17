@@ -10,10 +10,12 @@ boiling until it bursts in flames. Point of no return.
 ![python-logo.jpeg](https://github.com/MorphZG/MorphZG/blob/main/assets/python-logo.jpeg?)
 --->
 
+
 **Skills and interests:**
 - Python programing
 - Linux shell scripting with Bash
 - Version control with Git and GitHub
+
 
 **Favorite editors:**
 - Vim
