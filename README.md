@@ -8,7 +8,24 @@ boiling until it bursts in flames. Point of no return.
 
 <!--- icons downloaded from:
 ![icons](https://simpleicons.org)
+![name](https://link-to-image.com)
+
+how can i change the color? fill? invert?
 --->
+
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/windowsterminal.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/python.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/gnubash.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/git.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/github.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/vim.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/sublimetext.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/pycharm.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/mysql.svg" />
+<img width="32px" align="left" src="https://github.com/MorphZG/MorphZG/blob/main/assets/postgresql.svg" />
+<img width="32px" src="https://github.com/MorphZG/MorphZG/blob/main/assets/ubuntu.svg" />
+
+<!-- how can i change the color? fill? invert?
 ![command_line](https://github.com/MorphZG/MorphZG/blob/main/assets/windowsterminal.svg)
 ![python](https://github.com/MorphZG/MorphZG/blob/main/assets/python.svg)
 ![bash](https://github.com/MorphZG/MorphZG/blob/main/assets/gnubash.svg)
@@ -20,6 +37,7 @@ boiling until it bursts in flames. Point of no return.
 ![mysql](https://github.com/MorphZG/MorphZG/blob/main/assets/mysql.svg)
 ![postgresql](https://github.com/MorphZG/MorphZG/blob/main/assets/postgresql.svg)
 ![ubuntu](https://github.com/MorphZG/MorphZG/blob/main/assets/ubuntu.svg)
+-->
 
 **Skills and interests:**
 - Python programing
