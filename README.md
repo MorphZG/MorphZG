@@ -15,8 +15,8 @@ Linux shell scripting with Bash
 Version control with Git and GitHub
 
 Favorite editors:
-Vim
-Sublime-text
+- Vim
+- Sublime-text
 
 
 
