@@ -6,6 +6,8 @@ fine music and fine drinks i decided that bartending is a career for me. Wrong!
 True passion was growing inside me, from small little spark my inside was
 boiling until it bursts in flames. Point of no return.
 
+
+![python-logo.jpeg](https://github.com/MorphZG/MorphZG/blob/main/assets/python-logo.jpeg?raw=true)
 Skills and interests:
 Python programing
 Linux shell scripting with Bash
