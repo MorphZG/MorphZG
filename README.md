@@ -7,7 +7,8 @@ True passion was growing inside me, from small little spark my inside was
 boiling until it bursts in flames. Point of no return.
 
 
-![python-logo.jpeg](https://github.com/MorphZG/MorphZG/blob/main/assets/python-logo.jpeg?raw=true)
+![python-logo.jpeg](https://github.com/MorphZG/MorphZG/blob/main/assets/python-logo.jpeg?)/
+
 Skills and interests:
 Python programing
 Linux shell scripting with Bash
