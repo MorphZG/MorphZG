@@ -1,4 +1,4 @@
-## Zoran Topic ##
+## Zoran Topic
 Since very early age i was interested in programming but since life can be
 unpredictable, we often step on a very different path. Charmed by shiny lights,
 fine music and fine drinks i decided that bartending is a career for me. Wrong!\
@@ -11,7 +11,7 @@ more styles available
 --->
 
 
-#### Skills and interests ####
+#### Skills and interests
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
