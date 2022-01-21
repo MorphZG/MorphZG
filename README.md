@@ -5,11 +5,6 @@ fine music and fine drinks i decided that bartending is a career for me. Wrong!\
 True passion was growing inside me, from small little spark my inside was
 boiling until it bursts in flames. Point of no return.
 
-<!--- markdown badges taken from:
-https://github.com/Ileriayo/markdown-badges/
-more styles available
---->
-
 
 #### Skills and interests
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,4 +36,18 @@ docker and cloud services like aws
 Awesome GitHub Profile README
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 --->
+
+<!--- markdown badges taken from:
+https://github.com/Ileriayo/markdown-badges/
+more styles available
+--->
+
+<!--- profile icons
+if you search github for some topic
+you will get search results with topic icon
+copy image link and you can paste it here 
+![name](link)
+--->
+
+
 
