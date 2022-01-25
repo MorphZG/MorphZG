@@ -16,6 +16,15 @@ boiling until it bursts in flames. Point of no return.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+To make it clear. I am far from being expert or even advanced knowledge with these technologies but i am very passionate about it.
+Working as a bartender so i don't have as much time as i would like to have, but i am excited every time i start my terminal.
+Python is my first love and programming language where i am most comfortable. I have knowledge about fundamental concepts and
+practicing every single day, even for a few minutes but i must type and code every day.
+
+Alongside python, i am trying to practice git and backup my work with github. While practicing git through CLI i am also improving
+my shell and linux knowledge. Next step for me will be learning more about big python frameworks like django or flask and learn more
+about database like MySQL or PostgreSQL.
+
 
 **Favorite editors:**
 <br>
