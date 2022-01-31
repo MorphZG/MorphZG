@@ -34,6 +34,13 @@ or flask and learn more about databases like MySQL or PostgreSQL.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 </br>
 
+Started coding with PyCharm but it is more suitable for larger projects. I like to dig deeper and learn how things work, trying to
+understand the process that PyCharm does automaticaly, with few mouse clicks. So i had to research new concepts like virtual environments,
+dependancy management, git commands... I am big fan of command line so i had to find a tool with less features, a text editor.
+Sublime-text and VIM are exactly what i need at this moment. VIM have steep learning curve but it feels like something special so i cant
+let it go. All these tools are just tools and i use all of them while trying to write perfect .vimrc config file :D 
+
+
 
 <!--- comment
 languages: python, sql, javascript, golang
