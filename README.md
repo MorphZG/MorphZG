@@ -55,18 +55,17 @@ docker and cloud services like aws
 Awesome GitHub Profile README
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 --->
-
 <!--- markdown badges taken from:
 https://github.com/Ileriayo/markdown-badges/
 more styles available
 --->
-
 <!--- profile icons
 if you search github for some topic
 you will get search results with topic icon
 copy image link and you can paste it here 
 ![name](link)
 --->
-
-
+<!--- nerdfont icons
+https://www.nerdfonts.com/
+--->
 
