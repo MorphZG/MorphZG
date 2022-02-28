@@ -1,8 +1,8 @@
 ## Zoran Topic
-Since very early age i was interested in programming but since life can be
-unpredictable, we often step on a very different path. Charmed by shiny lights,
-fine music and fine drinks i decided that bartending is a career for me. Wrong!\
-True passion was growing inside me, from small little spark my inside was
+Since very early age i was interested in programming but life is upredictable,  
+we often step on a very different path. Charmed by shiny lights, fine music  
+and fine drinks i decided that bartending is a career for me. Wrong!  
+True passion was growing inside me, from small little spark my inside was  
 boiling until it bursts in flames. Point of no return.
 
 
@@ -16,15 +16,16 @@ boiling until it bursts in flames. Point of no return.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-To make it clear. I am far from being expert or even advance knowledge with these technologies. I am very passionate about it.
-Offten short on time, having a full time job as a bartender, those moments in front of screen with all tools loaded makes me
-really excited. Python is my first love and programming language where i am most comfortable. I have solid knowledge about
-fundamentals, practicing every single day. Even for a few minutes but i must type and code every day. I hope to find a job
-this year and finaly prove that it's never late to pursue your dreams.
+To make it clear. I am far from being expert with these technologies. I am very passionate about it.  
+Offten short on time, having a full time job as a bartender, those moments in front of the screen with  
+all tools loaded makes me really excited. Python is my first love and programming language where i am  
+most comfortable. I enjoy doing coding challanges, practicing and learning every single day.  
+I hope to find a job this year and finaly prove that it's never late to pursue your dreams.  
 
-Alongside python, i am practicing git and backup some of my work with github. While practicing git through CLI i am also improving
-my shell and linux knowledge. Got some books on bash scripting. Next step will be learning more about python frameworks like django
-or flask and learn more about databases like MySQL or PostgreSQL.
+Alongside python, i am practicing git and backup some of my work with github. I am big fan of command line,  
+always trying to look behind the surface and learn how things work in the background. That is the main reason  
+my dev environment is running on linux. Learning about bash scripting along the way. Next step will be learning  
+more about python web frameworks like django or flask, learn more about databases like MySQL or PostgreSQL.  
 
 
 **Favorite editors:**
