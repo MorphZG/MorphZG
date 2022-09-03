@@ -1,4 +1,4 @@
-## Zoran Topic
+# Zoran Topic
 Since very early age i was interested in programming but life is upredictable,  
 we often step on a very different path. Charmed by shiny lights, fine music  
 and fine drinks i decided that bartending is a career for me. Wrong!  
@@ -6,7 +6,7 @@ True passion was growing inside me, from small little spark my inside was
 boiling until it bursts in flames. Point of no return.
 
 
-#### Skills and interests
+## Skills and interests
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,6 +35,11 @@ more about python web frameworks like django or flask, learn more about database
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 </br>
 
+## Courses i took (online)
+
+### Harvard university CS50
+
+Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
  
 
 
