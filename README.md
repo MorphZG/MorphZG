@@ -35,13 +35,7 @@ more about python web frameworks like django or flask, learn more about database
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 </br>
 
-Started coding with PyCharm but it is more suitable for larger projects. I like to dig deeper and learn  
-about background process, how things work below surface, understand the process that PyCharm does automaticaly.  
-I had to research new concepts like virtual environments, dependancy management, git commands...  
-I had to find a tool with less features where i do more manual work, a text editor.  
-Sublime-text and VIM are exactly what i need at this moment. VIM have steep learning curve but once you learn  
-the concept you can almost fly through the code. I try to stay flexible and not attach myself to single tool.  
-Depending on the project needs i will switch, change and adapt my environment. 
+ 
 
 
 <!--- comment
