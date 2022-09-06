@@ -33,6 +33,14 @@ Introduction to the intellectual enterprises of computer science and the art of 
 Repository link: [100_days_of_code](https://github.com/MorphZG/python_learning/tree/main/100_days_of_code)  
 Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps. Through 100 days you will work with libraries like Selenium, Beautiful Soup, Requests, Flask, Pandas, NumPy, Scikit Learn, Plotly and Matplotlib.
 
+## Consumed books
+
+### Python crash course
+
+### Automate the boring stuff with python
+
+### Learn python 3 the hard way
+
 
 
 <!--- comment
