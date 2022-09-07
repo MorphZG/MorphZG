@@ -3,6 +3,7 @@
 Since very early age i was interested in programming but life is upredictable, we often step on a very different path. Charmed by shiny lights, fine music and fine drinks i decided that bartending is a career for me. Wrong! True passion was growing inside me, from small little spark my inside was boiling until it bursts in flames. Point of no return.
 
 ## Skills and interests
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -14,40 +15,58 @@ Since very early age i was interested in programming but life is upredictable, w
 
 To make it clear. I am far from being expert with these technologies. I am very passionate about it. Offten short on time, having a full time job as a bartender, those moments in front of the screen with all tools loaded makes me really excited. Python is my first love and programming language where i am most comfortable. I enjoy doing coding challanges, practicing and learning every single day. I hope to find a job this year and finaly prove that it's never late to pursue your dreams. Alongside python, i am practicing git and backup some of my work with github. I am big fan of command line, always trying to look behind the surface and learn how things work in the background. That is the main reason my dev environment is running on linux. Learning about bash scripting along the way. Next step will be learning more about python web frameworks like django or flask, learn more about databases like MySQL or PostgreSQL.  
 
-**Favorite editors:**
-<br>
+**Favorite tools:**  
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-</br>
 
-## Courses i took (online)
+## Online courses
 
 ### Harvard university CS50
 
-Repository link: [cs50course](https://github.com/MorphZG/cs50course)  
-Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
+- Repository link: [cs50course](https://github.com/MorphZG/cs50course)  
+- Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
  
 ### 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
-Repository link: [100_days_of_code](https://github.com/MorphZG/python_learning/tree/main/100_days_of_code)  
-Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps. Through 100 days you will work with libraries like Selenium, Beautiful Soup, Requests, Flask, Pandas, NumPy, Scikit Learn, Plotly and Matplotlib.
+- Repository link: [100_days_of_code](https://github.com/MorphZG/python_learning/tree/main/100_days_of_code)  
+- Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps. Through 100 days you will work with libraries like Selenium, Beautiful Soup, Requests, Flask, Pandas, NumPy, Scikit Learn, Plotly and Matplotlib.
 
 ## Consumed books
 
-### Python crash course
+### Python crash course by Eric Matthes
 
-### Automate the boring stuff with python
+- Repository link: [python crash course](https://github.com/MorphZG/python_learning/tree/main/python%20crash%20course)
+- Use powerful Python libraries and tools, including Pygame, Matplotlib, Plotly, and Django
+- Make 2D games that respond to keypresses and mouse clicks, and that increase in difficulty
+- Use data to generate interactive visualizations
+- Create and customize web apps and deploy them safely online
+- Deal with mistakes and errors so you can solve your own programming problems
 
+### Automate the boring stuff with python by Al Sweigart
+
+- Repository link: [automate_the_boring_stuff](https://github.com/MorphZG/python_learning/tree/main/automate_the_boring_stuff)
+- Search for text in a file or across multiple files
+- Create, update, move, and rename files and folders
+- Search the Web and download online content
+- Update and format data in Excel spreadsheets of any size
+- Split, merge, watermark, and encrypt PDFs
+- Send reminder emails and text notifications
+- Fill out online forms
+
+<!---
 ### Learn python 3 the hard way
 
+Repository link: []()
+--->
 
 
 <!--- comment
-languages: python, sql, javascript, golang
+languages: python, sql, javascript, C...
 Knowledge of different linux distributions and protocols,
 bash shell scripting, SSH, SFTP, PGP encryption
 docker and cloud services like aws
+Algorithms, data structures
 --->
 
 <!--- comment
