@@ -32,6 +32,24 @@ To make it clear. I am far from being expert with these technologies. I am very 
 - Repository link: [100_days_of_code](https://github.com/MorphZG/Learn-code/tree/main/python_learning/100_days_of_code)  
 - Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps. Through 100 days you will work with libraries like Selenium, Beautiful Soup, Requests, Flask, Pandas, NumPy, Scikit Learn, Plotly and Matplotlib.
 
+### Freecodecamp
+
+* [Relational database certification](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/relational%20database)
+    - [x] Learn Bash by Building a Boilerplate
+    - [x] Learn Relational Databases by Building a Mario Database
+    - [ ] Celestial Bodies Database
+    - [ ] Learn Bash Scripting by Building Five Programs
+    - [ ] Learn SQL by Building a Student Database: Part 1
+    - [ ] Learn SQL by Building a Student Database: Part 2
+    - [ ] World Cup Database
+    - [ ] Learn Advanced Bash by Building a Kitty Ipsum Translator
+    - [ ] Learn Bash and SQL by Building a Bike Rental Shop
+    - [ ] Salon Appointment Scheduler
+    - [ ] Learn Nano by Building a Castle
+    - [ ] Learn Git by Building an SQL Reference Object
+    - [ ] Periodic Table Database
+    - [ ] Number Guessing Game
+
 ## Consumed books
 
 ### Python crash course by Eric Matthes
