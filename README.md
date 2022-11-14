@@ -13,7 +13,7 @@ Since very early age i was interested in programming but life is upredictable, w
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-To make it clear. I am far from being expert with these technologies. I am very passionate about it. Often short on time, having a full time job as a bartender, those moments in front of the screen with all tools loaded makes me really excited. Python is my first love and programming language where i am most comfortable. I enjoy doing coding challanges, practicing and learning every single day. I hope to find a job this year and finaly prove that it's never late to pursue your dreams. Alongside python, i am practicing git and backup some of my work with github. I am big fan of command line, always trying to look behind the surface and learn how things operate in the background. That is one of the reasons my environment is running on linux so along the way i am learning about the shell scripting also. As someone who is backend oriented i have basic knowledge of SQL. Next step will be to dive deeper and learn more about database management systems like Postgresql or MySQL. 
+To make it clear. I am far from being expert with these technologies. I am very passionate about it. Often short on time, having a full time job as a bartender, those moments in front of the screen with all tools loaded makes me really excited. Python is my first love and programming language where i am most comfortable. I enjoy doing coding challenges, practicing and learning every single day. I hope to find a job this year and finally prove that it's never late to pursue your dreams. Alongside python, i am practicing git and backup some of my work with github. I am big fan of command line, always trying to look behind the surface and learn how things operate in the background. That is one of the reasons my environment is running on linux so along the way i am learning about the shell scripting also. As someone who is backend oriented i have basic knowledge of SQL. Next step will be to dive deeper and learn more about database management systems like Postgresql or MySQL. 
 
 **Favorite tools:**  
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -34,21 +34,8 @@ To make it clear. I am far from being expert with these technologies. I am very 
 
 ### Freecodecamp
 
-* [Relational database certification](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/relational%20database)
-    - [x] Learn Bash by Building a Boilerplate
-    - [x] Learn Relational Databases by Building a Mario Database
-    - [ ] Celestial Bodies Database
-    - [ ] Learn Bash Scripting by Building Five Programs
-    - [ ] Learn SQL by Building a Student Database: Part 1
-    - [ ] Learn SQL by Building a Student Database: Part 2
-    - [ ] World Cup Database
-    - [ ] Learn Advanced Bash by Building a Kitty Ipsum Translator
-    - [ ] Learn Bash and SQL by Building a Bike Rental Shop
-    - [ ] Salon Appointment Scheduler
-    - [ ] Learn Nano by Building a Castle
-    - [ ] Learn Git by Building an SQL Reference Object
-    - [ ] Periodic Table Database
-    - [ ] Number Guessing Game
+- [Relational database certification](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/relational%20database)
+- [Scientific computing with python](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/scientific%20computing%20with%20python)
 
 ## Consumed books
 
