@@ -1,5 +1,7 @@
 # Zoran Topic
 
+[zorantopic.code.blog](https://zorantopic.code.blog)
+
 Since very early age i was interested in programming but life is upredictable, we often step on a very different path. Charmed by shiny lights, fine music and fine drinks i decided that bartending is a career for me. Wrong! True passion was growing inside me, from small little spark my inside was boiling until it bursted in flames. Point of no return.
 
 ## Skills and interests
