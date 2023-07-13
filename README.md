@@ -24,10 +24,12 @@ Repository link: [100_days_of_code](https://github.com/MorphZG/Learn-code/tree/m
 Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps. Through 100 days you will work with libraries like Selenium, Beautiful Soup, Requests, Flask, Pandas, NumPy, Scikit Learn, Plotly and Matplotlib.  
 
 ### Freecodecamp
+
 - [Responsive web design](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/responsive%20web%20design)
 - [Relational database certification](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/relational%20database)
 - [Scientific computing with python](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/scientific%20computing%20with%20python)  
-- 
+- [Javascript algorithms and data structures](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/javascript%20algorithms%20and%20data%20structures) 
+
 ## Consumed books
 
 ### Python crash course by Eric Matthes
