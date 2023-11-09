@@ -23,6 +23,10 @@ Introduction to the intellectual enterprises of computer science and the art of 
 Repository link: [100_days_of_code](https://github.com/MorphZG/Learn-code/tree/main/python_learning/100_days_of_code)  
 Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps. Through 100 days you will work with libraries like Selenium, Beautiful Soup, Requests, Flask, Pandas, NumPy, Scikit Learn, Plotly and Matplotlib.  
 
+### App brewery - Web development bootcamp
+Repository link: [app_brewery web_development_bootcamp](https://github.com/MorphZG/Learn-code/tree/main/app_brewery%20web_development_bootcamp)
+The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript ES6, Bootstrap 4, JQuery, Node.js, MongoDB and more!
+
 ### Freecodecamp
 
 - [Responsive web design](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/responsive%20web%20design)
