@@ -16,7 +16,7 @@ I am very passionate about it. Often short on time, having a full time job as a 
 
 end of comment-->
 
-![](https://komarev.com/ghpvc/?username=morphzg&color=blue)
+![](https://komarev.com/ghpvc/?base=20&username=morphzg&color=blue)
 
 ## Skills and interests
 
