@@ -1,4 +1,4 @@
-<!--
+<!-- comment out
 # Zoran Topic
 
  Since very early age i was interested in programming but life is upredictable, we often step on a very different path. Charmed by shiny lights, fine music and fine drinks i decided that bartending is a career for me. Wrong! True passion was growing inside me, from small little spark my inside was boiling until it bursted in flames. Point of no return.
@@ -13,8 +13,13 @@ Started to wonder. who am i actually? Searching for a natural talent. Some was b
 With my first lines of code in i got access to simplified interface. Everything can be done with a few mouse clicks. I had the urge to learn how all those components actually work. Launch the terminal and learn git, learn bash and linux scripting… like puzzles connecting the dots and forming a picture. Backend web development is my perfect fit. Then came machine learning, artificial intelligence and big data, all those really interesting stuff years ahead of me. Currently to high above my level. With 36 i think i am now more than ready to take that bite.
 
 I am very passionate about it. Often short on time, having a full time job as a bartender, those moments in front of the screen with all tools loaded makes me really excited. Python is my first love and programming language where i am most comfortable. I enjoy doing coding challenges, practicing and learning every single day. I hope to find a job this year and finally prove that it's never late to pursue your dreams. Alongside python, i am learning javascript, html and css as i see them as a fundamental web technologies. Web apps are probably the easiest entry through the rabbit hole, my cheapest ticket for the high class. Start with web than find another road, small secret passage to AI and machine learning. I am a big fan of command line, always trying to look behind the screen and cool graphics, learn how mechanics in the background operates, how and who pulls the strings.
--->
+
+end of comment-->
+
+![](https://komarev.com/ghpvc/?username=morphzg&color=blue)
+
 ## Skills and interests
+
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
  
 ## Online courses
