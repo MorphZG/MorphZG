@@ -29,7 +29,7 @@ Check out my [open source repositories](https://github.com/MorphZG?tab=repositor
 
 ## Online courses
 
-Repository link: [learn_code](https://github.com/MorphZG/learn_code) monorepo
+Repository link: [learn_code](https://github.com/MorphZG/learn_code) monorepo  
 There is a single monorepository for all the projects i did through various courses. I did my best to document the process of learning. Every project have a well written readme file, not only as a set of instructions but more as a learning material with the breakdown of important concepts i was trying to remember.
 
 
