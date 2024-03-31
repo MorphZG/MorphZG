@@ -4,6 +4,7 @@
  Since very early age i was interested in programming but life is upredictable, we often step on a very different path. Charmed by shiny lights, fine music and fine drinks i decided that bartending is a career for me. Wrong! True passion was growing inside me, from small little spark my inside was boiling until it bursted in flames. Point of no return.
  
  ## Skills and interests
+
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 Young, naive and overconfident. Now, 36 years of age, frustrated but highly motivated. I thought success will come by default but was wrong. I always felt confident with skills and value i offer to my employee. bartender since 2005 till now. and i was sure i am a good one. but after my 30 birthday i started to question. somehow i realized i have other skills and interests that none of my colleagues have. In more than a decade of my bartending None of my work buddies. few more years have passed and i am now sure i am different. i just don’t fit into the stereotype.
@@ -29,14 +30,17 @@ Check out my [open source repositories](https://github.com/MorphZG?tab=repositor
 ## Online courses
 
 ### Harvard university CS50
+
 Repository link: [cs50course](https://github.com/MorphZG/Learn-code/tree/main/cs50course)  
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
 
 ### 100 Days of Code: The Complete Python Pro Bootcamp for 2022
+
 Repository link: [100_days_of_code](https://github.com/MorphZG/Learn-code/tree/main/python_learning/100_days_of_code)  
 Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps. Through 100 days you will work with libraries like Selenium, Beautiful Soup, Requests, Flask, Pandas, NumPy, Scikit Learn, Plotly and Matplotlib.  
 
 ### App brewery - Web development bootcamp
+
 Repository link: [app_brewery web_development_bootcamp](https://github.com/MorphZG/Learn-code/tree/main/app_brewery%20web_development_bootcamp)
 The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript ES6, Bootstrap 4, JQuery, Node.js, MongoDB and more!
 
@@ -47,13 +51,15 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 - [Scientific computing with python](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/scientific%20computing%20with%20python)  
 - [Javascript algorithms and data structures](https://github.com/MorphZG/Learn-code/tree/main/freecodecamp/javascript%20algorithms%20and%20data%20structures) 
 
-## Consumed books
+## Books
 
 ### Python crash course by Eric Matthes
+
 Repository link: [python crash course](https://github.com/MorphZG/Learn-code/tree/main/python_learning/book%20python%20crash%20course)  
 Use powerful Python libraries and tools, including Pygame, Matplotlib, Plotly, and Django - Make 2D games that respond to keypresses and mouse clicks, and that increase in difficulty - Use data to generate interactive visualizations - Create and customize web apps and deploy them safely online - Deal with mistakes and errors so you can solve your own programming problems  
 
 ### Automate the boring stuff with python by Al Sweigart
+
 Repository link: [automate_the_boring_stuff](https://github.com/MorphZG/Learn-code/tree/main/python_learning/book%20automate_the_boring_stuff)  
 - Search for text in a file or across multiple files
 - Create, update, move, and rename files and folders
