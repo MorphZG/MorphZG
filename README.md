@@ -1,79 +1,56 @@
+### ✍ Maybe today, my dear visitor, this quote is just for you.
 
-<!-- comment start
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 👋 Why am i here?
 
-end of comment-->
+Just a casual, simple person, nothing extraordinary at a first glance. But beneath the surface lies a unique and peculiar one. With his own experiences, desires, passions... Man can only hope there will be more good than bad ones. 
 
-![views-count](https://komarev.com/ghpvc/?base=20&username=morphzg&color=blue)
-
-# 👋 Who Am I?
-
-Just a casual, simple person — nothing extraordinary at first glance. But beneath the surface lies a unique tapestry of experiences, desires, and passions. 
-
-I’m driven by curiosity, a love for productivity, and the thrill of writing. Who am I, really? That’s a work in progress. For now, I stay busy learning, building, and exploring the things that make life interesting.
+I’m driven by curiosity, how those small and shinny little gadgets around us work. How they influence our desires and needs? That small piece of software you use daily, how does it run? Asking all those questions led me here so i can share the answers with anyone around me.
 
 ## ✍️ Blog posts, when no one listens
 
-### Featured
+#### Featured
+
 - [Facing the Fear of Impostor: Challenge, Growth, and Million Mistakes](https://dev.to/morphzg/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes-fi1)  
 - [Let Me Tell You a Story](https://dev.to/morphzg/let-me-tell-you-a-story-2p29)  
 
-### Latest
+#### Latest
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
 ## 📚 Learning materials and projects  
 
-I’ve documented my journey through various learning resources in a [mono-repo](https://github.com/MorphZG/learn_code). Each project includes detailed README files to help others learn alongside me.  
+I’ve documented my journey through various learning resources in a large [mono-repository](https://github.com/MorphZG/learn_code). Each project includes detailed README files to help others pickup few snippets. Documenting and writing while i code also helps me to share my thoughts with the perfect listener, my own self.
 
 ### Notable learning paths:
+
 - [CS50](https://github.com/MorphZG/Learn-code/tree/main/cs50course): A dive into computer science fundamentals, algorithms, and problem-solving.  
 - [100 Days of Python](https://github.com/MorphZG/Learn-code/tree/main/python_learning/100_days_of_code): Building 100 projects in Python, from web scraping to data visualization.  
 - [The Odin Project](https://github.com/MorphZG/learn_code/tree/main/the_odin_project): Foundations of web development, progressing to full-stack JavaScript.  
 - [Automate the Boring Stuff](https://github.com/MorphZG/Learn-code/tree/main/python_learning/book%20automate_the_boring_stuff): Using Python to automate everyday tasks like handling files, web scraping, and more.  
 
-Check out my repository for more learning adventures:  
-[Explore My Learning Projects](https://github.com/MorphZG/learn_code)  
+>Explore the rest of my learning projects: [github.com/morphzg/learn_code](https://github.com/MorphZG/learn_code)  
 
----
+### 🛠️ Featured repositories
 
-## 🛠️ Featured repositories  
+- [Work_schedule_app](https://github.com/MorphZG/work_schedule_app):
+  - Tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
 
-### [Employee Scheduler](https://github.com/MorphZG/employee-scheduler)  
-A tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
+- [Digital Garden](https://github.com/MorphZG/digital-garden)
+  - Static site generated from my collection of notes serving as a personal knowledge base.
 
-### [Digital Garden](https://github.com/MorphZG/digital-garden)  
-A static site built with React to showcase Markdown notes interactively.  
+### 📫 Connect with Me  
 
-Explore more: [Open Source Repositories](https://github.com/MorphZG?tab=repositories)  
-
----
-
-## 🎯 Goals & fun facts  
-- 💡 Fun Fact: I often find fun in tasks others find mundane.  
-- 🌱 Current Focus: Improving full-stack development skills and diving deeper into React and Node.js.  
-- 🎯 Goal: To build tools that simplify life and learning for others.  
-
----
-
-## 📫 Connect with Me  
 - [Blog](https://dev.to/morphzg)  
 - [GitHub](https://github.com/MorphZG)  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/zorantopic)  
 
+---
+### 🎉 Gimmicks 
 
-## 🎉 Gimmicks 
-
-No serious about me, readme file can ever be completed without colorful info graphics.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morphzg&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morphzg&layout=compact&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morphzg&theme=radical)
+### No serious profile readme file can ever be completed without colorful info graphics.
 
 <!--- ### Learn python 3 the hard way Repository link: []() --->
 <!--- comment languages: python, sql, javascript, node.js... Knowledge of different linux distributions and protocols, bash shell scripting, SSH, SFTP, PGP encryption docker and cloud services like aws Algorithms, data structures --->
@@ -82,3 +59,14 @@ No serious about me, readme file can ever be completed without colorful info gra
 <!--- profile icons if you search github for some topic you will get search results with topic icon copy image link and you can paste it here ![name](link) --->
 <!--- nerdfont icons https://www.nerdfonts.com/ --->
 <!--- github actions, pulls list of blog posts into readme file https://github.com/gautamkrishnar/blog-post-workflow --->
+<!--
+## 🎯 Goals & fun facts  
+- 💡 Fun Fact: I often find fun in tasks others consider boring. My urge to analyse and understand makes me occupied.
+- 🌱 Current Focus: Improving web development skills. Learning React.
+- 🎯 Goal: Solve the puzzle of life.
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=morphzg&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=morphzg&theme=vue-dark&hide_border=true)
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=morphzg&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
