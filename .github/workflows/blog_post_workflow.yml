@@ -17,3 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/morphzg"
+          commit_message: "updated latest blog posts"
+          committer_username: "blog_list_bot"
+            
