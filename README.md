@@ -69,4 +69,3 @@ I’ve documented my journey through various learning resources in a large [mono
 ![](https://github-readme-stats.vercel.app/api?username=morphzg&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=morphzg&theme=vue-dark&hide_border=true)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphzg&hide_progress=true)
