@@ -29,6 +29,10 @@ Just a casual simple guy, not much different from the rest of the herd you can s
 
 Who i am i, i am still not sure. I like to stay occupied, i enjoy being productive. Sometimes finding fun where others would get bored to death. That's the reason i write. I like writing
 
+## ✍️ Latest Blog Posts
+- [Facing the Fear of Impostor: Challenge, Growth and Million Mistakes](https://dev.to/morphzg/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes-fi1)
+- [Let me tell you a story](https://dev.to/morphzg/let-me-tell-you-a-story-2p29)
+
 ## Repositories
 
 Check out my [open source repositories](https://github.com/MorphZG?tab=repositories)
