@@ -18,11 +18,11 @@ I’m driven by curiosity, how those small and shinny little gadgets around us w
 #### Latest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facing Impostor Syndrome: Challenges, Growth, and a Million Mistakes](https://dev.to/morphzg/facing-impostor-syndrome-challenges-growth-and-a-million-mistakes-3h3p)
 - [Let me tell you a story](https://dev.to/morphzg/let-me-tell-you-a-story-2p29)
 - [Perfect note taking system](https://dev.to/morphzg/perfect-note-taking-system-4lhe)
 - [Note Taking as a Learning Tool: How to Retain Knowledge and Spark New Ideas](https://dev.to/morphzg/note-taking-as-a-learning-tool-how-to-retain-knowledge-and-spark-new-ideas-19i0)
 - [YAML reference and important concepts.](https://dev.to/morphzg/yaml-reference-and-important-concepts-21p9)
-- [Who am i? For real](https://dev.to/morphzg/who-am-i-for-real-13bo)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📚 Learning materials and projects  
