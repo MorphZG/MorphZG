@@ -1,4 +1,4 @@
-### ✍ Maybe today, my dear visitor, this quote is just for you.
+# ✍
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
