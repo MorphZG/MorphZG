@@ -36,15 +36,17 @@ I’ve documented my journey through various learning resources in a large [mono
 - [The Odin Project](https://github.com/MorphZG/learn_code/tree/main/the_odin_project): Foundations of web development, progressing to full-stack JavaScript.  
 - [Automate the Boring Stuff](https://github.com/MorphZG/Learn-code/tree/main/python_learning/book%20automate_the_boring_stuff): Using Python to automate everyday tasks like handling files, web scraping, and more.  
 
->Explore the rest of my learning projects: [github.com/morphzg/learn_code](https://github.com/MorphZG/learn_code)  
+>Explore the rest of my learning projects:  
+>  - [github.com/morphzg/learn_code](https://github.com/MorphZG/learn_code)
+>  - [github.com/morphzg/learn_react](https://github.com/MorphZG/learn_react)  
 
 ### 🛠️ Featured repositories
 
 - [Work_schedule_app](https://github.com/MorphZG/work_schedule_app):
   - Tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
 
-- [Digital Garden](https://github.com/MorphZG/digital-garden)
-  - Static site generated from my collection of notes serving as a personal knowledge base.
+- [Digital Garden](https://github.com/MorphZG/morphzg.github.io)
+  - Static site built with Astro.js. Collection of my private notes serving as an knowledge base.
 
 ### 📫 Connect with Me  
 
