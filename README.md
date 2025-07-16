@@ -8,6 +8,8 @@ Just a casual, simple person, nothing extraordinary at a first glance. But benea
 
 I’m driven by curiosity, how those small and shinny little gadgets around us work. How they influence our desires and needs? That small piece of software you use daily, how does it run? Asking all those questions led me here so i can share the answers with anyone around me.
 
+Solve problems not only as a simple day to day challenges, but more of a real and long term goals to help the real people facing their every day strugles and obstacles.
+
 ## ✍️ Blog posts, when no one listens
 
 #### Featured
