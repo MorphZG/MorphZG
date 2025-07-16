@@ -55,6 +55,7 @@ I’ve documented my journey through various learning resources in a large [mono
 - [Blog](https://dev.to/morphzg)  
 - [GitHub](https://github.com/MorphZG)  
 - [LinkedIn](https://www.linkedin.com/in/zorantopic)  
+- [CV](https://github.com/MorphZG/MorphZG/blob/main/assets/CV_europass_IT%202024v1-1.pdf)
 
 ---
 ### 🎉 Gimmicks 
