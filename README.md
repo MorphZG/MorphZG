@@ -33,22 +33,21 @@ I’ve documented my journey through various learning resources in a large [mono
 
 ### Notable learning paths:
 
-- [CS50](https://github.com/MorphZG/Learn-code/tree/main/cs50course): A dive into computer science fundamentals, algorithms, and problem-solving.  
-- [100 Days of Python](https://github.com/MorphZG/Learn-code/tree/main/python_learning/100_days_of_code): Building 100 projects in Python, from web scraping to data visualization.  
+- [CS50](https://github.com/MorphZG/Learn-code/tree/main/cs50course): A dive into computer science fundamentals, algorithms, and problem-solving. After learning Python i got real cravings to learn everything that can help me understand more about computer science and what is actually going on in the background.
+- [100 Days of Python](https://github.com/MorphZG/Learn-code/tree/main/python_learning/100_days_of_code): Building 100 projects in Python, from web scraping to data visualization. My first online course, got me interested in CLI tools and a Linux terminal (Yes, Python is to blame).
+- [Web development bootcamp - App brewery](https://github.com/MorphZG/learn_code/tree/main/app_brewery%20web_development_bootcamp) From basic to advanced concepts. This course provided very strong fundamentals and helped me think like a developer and my knowledge only grew from this point.
 - [The Odin Project](https://github.com/MorphZG/learn_code/tree/main/the_odin_project): Foundations of web development, progressing to full-stack JavaScript.  
-- [Automate the Boring Stuff](https://github.com/MorphZG/Learn-code/tree/main/python_learning/book%20automate_the_boring_stuff): Using Python to automate everyday tasks like handling files, web scraping, and more.  
 
->Explore the rest of my learning projects:  
->  - [github.com/morphzg/learn_code](https://github.com/MorphZG/learn_code)
->  - [github.com/morphzg/learn_react](https://github.com/MorphZG/learn_react)  
+>Explore the rest of my learning depositories:  
+>  - [github.com/learn_code](https://github.com/MorphZG/learn_code)
+>  - [github.com/learn_react](https://github.com/MorphZG/learn_react)  
 
 ### 🛠️ Featured repositories
 
-- [Work_schedule_app](https://github.com/MorphZG/work_schedule_app):
-  - Tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
-
-- [Digital Garden](https://github.com/MorphZG/morphzg.github.io)
-  - Static site built with Astro.js. Collection of my private notes serving as an knowledge base.
+- [Work_schedule_app](https://github.com/MorphZG/work_schedule_app): Tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
+- [Digital Garden](https://github.com/MorphZG/morphzg.github.io): Static site built with Astro.js. Collection of my private notes serving as an knowledge base.
+- [advent of code](https://github.com/MorphZG/advent_of_code): My solutions to anual "Advent of code" event.
+- [learn_code/webdev_projects](https://github.com/MorphZG/learn_code/tree/main/webdev_projects): Simple projects to help me sharpen my skills
 
 ### 📫 Connect with Me  
 
@@ -58,9 +57,12 @@ I’ve documented my journey through various learning resources in a large [mono
 - [CV](https://github.com/MorphZG/MorphZG/blob/main/assets/CV_europass_IT%202024v1-1.pdf)
 
 ---
+
 ### 🎉 Gimmicks 
 
 ### No serious profile readme file can ever be completed without colorful info graphics.
+
+![Metrics](/github-metrics.svg)
 
 <!--- ### Learn python 3 the hard way Repository link: []() --->
 <!--- comment languages: python, sql, javascript, node.js... Knowledge of different linux distributions and protocols, bash shell scripting, SSH, SFTP, PGP encryption docker and cloud services like aws Algorithms, data structures --->
@@ -78,4 +80,5 @@ I’ve documented my journey through various learning resources in a large [mono
 
 ![](https://github-readme-stats.vercel.app/api?username=morphzg&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=morphzg&theme=vue-dark&hide_border=true)
+
 ---
