@@ -20,11 +20,11 @@ Solve problems not only as a simple day to day challenges, but more of a real an
 #### Latest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relfection of values](https://forem.com/morphzg/relfection-of-values-5agh)
-- [Let me tell you a story](https://forem.com/morphzg/let-me-tell-you-a-story-2p29)
-- [Perfect note taking system](https://forem.com/morphzg/perfect-note-taking-system-4lhe)
-- [Note Taking as a Learning Tool: How to Retain Knowledge and Spark New Ideas](https://forem.com/morphzg/note-taking-as-a-learning-tool-how-to-retain-knowledge-and-spark-new-ideas-19i0)
-- [YAML reference and important concepts.](https://forem.com/morphzg/yaml-reference-and-important-concepts-21p9)
+- [Relfection of values](https://dev.to/morphzg/relfection-of-values-5agh)
+- [Let me tell you a story](https://dev.to/morphzg/let-me-tell-you-a-story-2p29)
+- [Perfect note taking system](https://dev.to/morphzg/perfect-note-taking-system-4lhe)
+- [Note Taking as a Learning Tool: How to Retain Knowledge and Spark New Ideas](https://dev.to/morphzg/note-taking-as-a-learning-tool-how-to-retain-knowledge-and-spark-new-ideas-19i0)
+- [YAML reference and important concepts.](https://dev.to/morphzg/yaml-reference-and-important-concepts-21p9)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📚 Learning materials and projects  
