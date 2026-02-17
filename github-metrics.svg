@@ -257,7 +257,7 @@
                                 <div class="infos">
                                     <div class="left">
                                         <div class="date">21 Aug 2024</div>
-                                        <div class="cover" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==);"></div>
+                                        <div class="cover" style="background-image: url(data:image/webp;base64,UklGRgYDAABXRUJQVlA4IPoCAABQEQCdASqQADwAPm00lUekIyIhKBVZyIANiUAaYvtpsEz1hL1AbYr+AegD9nPWO9EG8U7zc4CsZ/aumBK1G3JjWwy+N6RqoQi2VvhixwSAtpg3pCI5IecYh2KCjtC9Y8bXqN+xej0t+n5Cr7WnZjsqw1sZxfS+SzjRgJ/rq/HyP20CgXajZW4n21fAdziUGggjBgAA/vaVl7eGR2E7+FZ34V1KosFBol0P7HuXab+1VVMzR6BBbJi0Jz3W3ex/vm4GTvijrbVOQXlvvpMylRzp/o8a3GgcJD1rfn/i+ZJxTbMY0rNGX67Mk156fOjxEn84CZ3jXMNemqfqIYONVLCNxGrp/Fuf39qE+DT42hBw3jSap/dMiCgwHcHyYCEFYUtAI9ZWwBapeTHnBEHdwVrXNHl4ZwxekUK9wQ7bHohj+zNXvgkbB1gZhfB1wJ4aoEDiSFjlvlHdKXYtZkE4PFKQWOjBOqyWO92dwW3Er9F30XzJkyhmKoU6PX4WPYTgutjJZvluRyfTkP/DHFjrS59XlTTxOOpXLXm2pE/8h+05DdbsAS8ZqX9//wr9WFbP/LsoXcR+koHl3Yf9SQNMaaMMsWIdec4gapldPgBfzH0X9fc0nYJAcQcweC59xxPbPVtANtaREBYia8dzQP7dSojHPS6ephw7F0NrAnbPJ5aUknR8pT6R85ymFAG4ucWXm6hN58tjrar+zwtZ4w9FLQi8PmsCeq5mllfyLfFevkyPLkmb+Ix43PzUoSnieuzFQHkwR2+4FpP1m+W034udPQGVk1dE20Y0ZUR43SfNPqvSILSr60H1qeYDxaJZYhrCxwSgCM3gXlzmWbX9ldvp8eYhdjNzP33/tjAh5JgZKRumxLZ3atrQUHR8kXIU/hzcalMP51psMB/2SXFP5SR6Dzebi1LdG7cupHUcuoslgFSyzjAzy8edDREJNM4nkw7knMARdMsnuAbWT3jDrKpnImeIJQ5k8g3KyuFk4V76iQG31XDxwwEAAAAAAAA=);"></div>
                                     </div>
                                     <div class="right">
                                         <div class="title">Perfect note taking system</div>
@@ -286,7 +286,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2026, 23:39:58 (timezone Europe/Zagreb) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2026, 00:36:36 (timezone Europe/Zagreb) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
