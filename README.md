@@ -15,7 +15,6 @@ Solve problems not only as a simple day to day challenges, but more of a real an
 #### Featured
 
 - [Perfect note taking system](https://dev.to/morphzg/perfect-note-taking-system-4lhe)
-- [Facing the Fear of Impostor: Challenge, Growth, and Million Mistakes](https://dev.to/morphzg/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes-fi1)  
 - [Let Me Tell You a Story](https://dev.to/morphzg/let-me-tell-you-a-story-2p29)  
 
 #### Latest
@@ -55,7 +54,7 @@ I’ve documented my journey through various learning resources in a large [mono
 - [Blog](https://dev.to/morphzg)  
 - [GitHub](https://github.com/MorphZG)  
 - [LinkedIn](https://www.linkedin.com/in/zorantopic)  
-- [CV](https://github.com/MorphZG/MorphZG/blob/main/assets/CV_europass_IT%202024v1-1.pdf)
+- [CV](https://github.com/MorphZG/MorphZG/blob/main/assets/CV_europass_IT%202024v1b.pdf)
 
 <!--- ### Learn python 3 the hard way Repository link: []() --->
 <!--- comment languages: python, sql, javascript, node.js... Knowledge of different linux distributions and protocols, bash shell scripting, SSH, SFTP, PGP encryption docker and cloud services like aws Algorithms, data structures --->
