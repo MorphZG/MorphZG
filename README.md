@@ -48,6 +48,7 @@ I’ve documented my journey through various learning resources in a large [mono
 - [Work_schedule_app](https://github.com/MorphZG/work_schedule_app): Tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
 - [advent of code](https://github.com/MorphZG/advent_of_code): My solutions to anual "Advent of code" event.
 - [webdev_projects](https://github.com/MorphZG/webdev_projects): Simple projects to help me sharpen my skills
+- [automation scripts](https://github.com/MorphZG/script_automation): Python and Shell scripts i use to automate some of the repetitive tasks. Few of those are written by AI but i always prefer to do it myself and gain experience.
 
 ### 📫 Connect with Me  
 
