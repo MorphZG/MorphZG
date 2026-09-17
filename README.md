@@ -4,7 +4,7 @@
 
 # 👋 Why am i here?
 
-Just a casual, simple person, nothing extraordinary at a first glance. But beneath the surface lies a unique and peculiar one. With his own experiences, desires, passions... Man can only hope there will be more good than bad ones. 
+Just a casual, simple person, nothing extraordinary at a first glance. But beneath the surface lies a unique and peculiar one. With his own experiences, desires, passions... Man can only hope there will be more good than bad ones.
 
 I’m driven by curiosity, how those small and shinny little gadgets around us work. How they influence our desires and needs? That small piece of software you use daily, how does it run? Asking all those questions led me here so i can share the answers with anyone around me.
 
@@ -14,6 +14,7 @@ Solve problems not only as a simple day to day challenges, but more of a real an
 
 #### Featured
 
+- [Perfect note taking system](https://dev.to/morphzg/perfect-note-taking-system-4lhe)
 - [Facing the Fear of Impostor: Challenge, Growth, and Million Mistakes](https://dev.to/morphzg/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes-fi1)  
 - [Let Me Tell You a Story](https://dev.to/morphzg/let-me-tell-you-a-story-2p29)  
 
@@ -31,7 +32,7 @@ Solve problems not only as a simple day to day challenges, but more of a real an
 
 I’ve documented my journey through various learning resources in a large [mono-repository](https://github.com/MorphZG/learn_code). Each project includes detailed README files to help others pickup few snippets. Documenting and writing while i code also helps me to share my thoughts with the perfect listener, my own self.
 
-### Notable learning paths:
+### Notable learning paths
 
 - [CS50](https://github.com/MorphZG/Learn-code/tree/main/cs50course): A dive into computer science fundamentals, algorithms, and problem-solving. After learning Python i got real cravings to learn everything that can help me understand more about computer science and what is actually going on in the background.
 - [100 Days of Python](https://github.com/MorphZG/Learn-code/tree/main/python_learning/100_days_of_code): Building 100 projects in Python, from web scraping to data visualization. My first online course, got me interested in CLI tools and a Linux terminal (Yes, Python is to blame).
@@ -39,15 +40,15 @@ I’ve documented my journey through various learning resources in a large [mono
 - [The Odin Project](https://github.com/MorphZG/learn_code/tree/main/the_odin_project): Foundations of web development, progressing to full-stack JavaScript.  
 
 >Explore the rest of my learning depositories:  
->  - [github.com/learn_code](https://github.com/MorphZG/learn_code)
->  - [github.com/learn_react](https://github.com/MorphZG/learn_react)  
+>
+> - [github.com/learn_code](https://github.com/MorphZG/learn_code)
+> - [github.com/learn_react](https://github.com/MorphZG/learn_react)  
 
 ### 🛠️ Featured repositories
 
 - [Work_schedule_app](https://github.com/MorphZG/work_schedule_app): Tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
-- [Digital Garden](https://github.com/MorphZG/morphzg.github.io): Static site built with Astro.js. Collection of my private notes serving as an knowledge base.
 - [advent of code](https://github.com/MorphZG/advent_of_code): My solutions to anual "Advent of code" event.
-- [learn_code/webdev_projects](https://github.com/MorphZG/learn_code/tree/main/webdev_projects): Simple projects to help me sharpen my skills
+- [webdev_projects](https://github.com/MorphZG/webdev_projects): Simple projects to help me sharpen my skills
 
 ### 📫 Connect with Me  
 
@@ -58,9 +59,9 @@ I’ve documented my journey through various learning resources in a large [mono
 
 ---
 
-### 🎉 Gimmicks 
+### 🎉 Gimmicks
 
-### No serious profile readme file can ever be completed without colorful info graphics.
+### No serious profile readme file can ever be completed without colorful info graphics
 
 ![Metrics](/github-metrics.svg)
 
