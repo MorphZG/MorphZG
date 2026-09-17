@@ -57,14 +57,6 @@ I’ve documented my journey through various learning resources in a large [mono
 - [LinkedIn](https://www.linkedin.com/in/zorantopic)  
 - [CV](https://github.com/MorphZG/MorphZG/blob/main/assets/CV_europass_IT%202024v1-1.pdf)
 
----
-
-### 🎉 Gimmicks
-
-### No serious profile readme file can ever be completed without colorful info graphics
-
-![Metrics](/github-metrics.svg)
-
 <!--- ### Learn python 3 the hard way Repository link: []() --->
 <!--- comment languages: python, sql, javascript, node.js... Knowledge of different linux distributions and protocols, bash shell scripting, SSH, SFTP, PGP encryption docker and cloud services like aws Algorithms, data structures --->
 <!--- comment Awesome GitHub Profile README https://github.com/abhisheknaiidu/awesome-github-profile-readme --->
