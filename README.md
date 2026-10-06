@@ -12,6 +12,10 @@ Solve problems not only as a simple day to day challenges, but more of a real an
 
 Driven to explore the technolgy around me but also express the thoughts and new ideas. I have compiled a short list of blog posts but also short descriptions of repositories you can find around here.
 
+Fun Fact: I often find fun in tasks others consider boring. My urge to analyse and understand is never ending endeavour.
+Current Focus: Level up my webdev and design skills with React and CSS.
+Goal: Solve the puzzle of life.
+
 ## ✍️ Blog posts, when no one listens
 
 #### Featured
@@ -38,11 +42,6 @@ I’ve documented my journey through various learning resources in a large [mono
 - [Web development bootcamp - App brewery](https://github.com/MorphZG/learn_code/tree/main/app_brewery%20web_development_bootcamp) From basic to advanced concepts. This course provided very strong fundamentals and helped me think like a developer and my knowledge only grew from this point.
 - [The Odin Project](https://github.com/MorphZG/learn_code/tree/main/the_odin_project): Foundations of web development, progressing to full-stack JavaScript.  
 
->Explore the rest of my learning depositories:  
->
-> - [github.com/learn_code](https://github.com/MorphZG/learn_code)
-> - [github.com/learn_react](https://github.com/MorphZG/learn_react)  
-
 ### 🛠️ Featured repositories
 
 - [Work_schedule_app](https://github.com/MorphZG/work_schedule_app): Tool for generating fair and balanced employee schedules using React, Node.js, and MongoDB.  
@@ -57,16 +56,10 @@ I’ve documented my journey through various learning resources in a large [mono
 - [LinkedIn](https://www.linkedin.com/in/zorantopic)  
 - [CV](https://github.com/MorphZG/MorphZG/blob/main/assets/CV_europass_IT%202024v1b.pdf)
 
-<!--- ### Learn python 3 the hard way Repository link: []() --->
-<!--- comment languages: python, sql, javascript, node.js... Knowledge of different linux distributions and protocols, bash shell scripting, SSH, SFTP, PGP encryption docker and cloud services like aws Algorithms, data structures --->
-<!--- comment Awesome GitHub Profile README https://github.com/abhisheknaiidu/awesome-github-profile-readme --->
+<!--- Awesome GitHub Profile README https://github.com/abhisheknaiidu/awesome-github-profile-readme --->
 <!--- markdown badges taken from: https://github.com/Ileriayo/markdown-badges/ more styles available --->
 <!--- profile icons if you search github for some topic you will get search results with topic icon copy image link and you can paste it here ![name](link) --->
 <!--- nerdfont icons https://www.nerdfonts.com/ --->
 <!--- github actions, pulls list of blog posts into readme file https://github.com/gautamkrishnar/blog-post-workflow --->
 <!--
-## 🎯 Goals & fun facts  
-- 💡 Fun Fact: I often find fun in tasks others consider boring. My urge to analyse and understand makes me occupied.
-- 🌱 Current Focus: Improving web development skills. Learning React.
-- 🎯 Goal: Solve the puzzle of life.
 -->
